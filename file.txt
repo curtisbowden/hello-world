@@ -1,1 +1,2 @@
 I get git!
+Branching is cool
